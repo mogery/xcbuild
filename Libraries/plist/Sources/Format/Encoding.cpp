@@ -6,6 +6,7 @@
  LICENSE file in the root directory of this source tree.
  */
 
+#include <stdlib.h>
 #include <plist/Format/Encoding.h>
 #include <plist/Format/unicode.h>
 
